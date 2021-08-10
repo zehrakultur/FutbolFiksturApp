@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">467704844835-6todehs1hfgldu3vlqtppapdgjo4bl93.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">467704844835</string>
+    <string name="google_api_key" translatable="false">AIzaSyD93MsJ4aQUfCtFechqW_UHetaWV0uYE64</string>
+    <string name="google_app_id" translatable="false">1:467704844835:android:da6d686c0ce00f02d69796</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD93MsJ4aQUfCtFechqW_UHetaWV0uYE64</string>
+    <string name="google_storage_bucket" translatable="false">futbolfikstur.appspot.com</string>
+    <string name="project_id" translatable="false">futbolfikstur</string>
+</resources>

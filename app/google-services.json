@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467704844835",
+    "project_id": "futbolfikstur",
+    "storage_bucket": "futbolfikstur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467704844835:android:da6d686c0ce00f02d69796",
+        "android_client_info": {
+          "package_name": "com.kultur.futbolfiksturuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467704844835-n6nvm0gvp3o5rts4c69l01d8ilh6p2ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kultur.futbolfiksturuygulamasi",
+            "certificate_hash": "9dd49577b54ca4060686164e19298d26e289f08c"
+          }
+        },
+        {
+          "client_id": "467704844835-6todehs1hfgldu3vlqtppapdgjo4bl93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93MsJ4aQUfCtFechqW_UHetaWV0uYE64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467704844835-6todehs1hfgldu3vlqtppapdgjo4bl93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
